@@ -2,7 +2,9 @@
 package Tugas3;
 import java.util.ArrayList;
 import java.util.Scanner;
-public class OutMahasiswa extends InheMahasiswa{
+
+
+public class OutMahasiswa extends InheMahasiswa {
     OutMahasiswa(String nama, String nim, int nilai){
         super(nama, nim, nilai);
     }
@@ -105,6 +107,4 @@ public class OutMahasiswa extends InheMahasiswa{
 
         return jumlah / mhs.size();
     }
-
-
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PBO sesi 2
 
 ## 1. Class adalah sebuah cetak biru atatu kerangka dalam pembuatan suatu program, sementara itu objek adalah hasil penciptaan sebuah class
@@ -14,3 +15,6 @@
       6. pembuatan objek dari class komputer
       7. melakukan pemberian nilai pada objek yang sudah dibuat dengan parameter "LAPYOP" da "MACBOOK"
       8. menampilkan jenis dan merk di console dengn cara melakukan fungsi getter
+=======
+# Object Oriented Progamming
+>>>>>>> 2aa68d2 (.)

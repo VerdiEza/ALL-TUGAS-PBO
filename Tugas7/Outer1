@@ -1,5 +1,3 @@
-package sesi7.satu;
-
 public class Outer {
     int number = 0;
 

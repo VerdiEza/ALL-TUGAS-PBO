@@ -1,4 +1,5 @@
 # Tugas PBO Sesi7
+## Hasil Analisa
 1. pada file ke 1 terdapat 3 buah file extensi .class yaitu Outer.class, Main.class dan
 Outer$Inner.class. Program dapat berjalan dengan baik karena kode yang tertera sudah benar dan sesuai. Ketika program di dijalankan terdapat Inner class
 yaitu Kelas Inner di dalam kelas Outer. Pada kelas main akan dibuat objek Outer dengan nama out.

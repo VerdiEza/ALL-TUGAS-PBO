@@ -1,4 +1,4 @@
-package com.percobaan1;
+package percobaan1;
 
 public class ExceptionFix {
     public static void main(String[] args) {

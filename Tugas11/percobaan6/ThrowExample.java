@@ -1,4 +1,4 @@
-package com.percobaan6;
+package percobaan6;
 
 public class ThrowExample {
     static void demo()

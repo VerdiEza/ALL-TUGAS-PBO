@@ -1,4 +1,4 @@
-package com.percobaan11;
+package percobaan11;
 
 class RangeErrorException extends Throwable{
     public RangeErrorException(String s) {

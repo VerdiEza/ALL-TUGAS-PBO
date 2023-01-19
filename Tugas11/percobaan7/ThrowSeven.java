@@ -1,4 +1,4 @@
-package com.percobaan7;
+package percobaan7;
 
 public class ThrowSeven {
     public static void main(String[] args) {

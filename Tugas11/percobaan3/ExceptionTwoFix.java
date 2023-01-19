@@ -1,4 +1,4 @@
-package com.percobaan3;
+package percobaan3;
 
 public class ExceptionTwoFix {
     public static void main(String[] args) {

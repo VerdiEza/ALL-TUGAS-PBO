@@ -1,4 +1,4 @@
-package com.percobaan2;
+package percobaan2;
 
 public class ExceptionError {
     public static void main(String[] args) {

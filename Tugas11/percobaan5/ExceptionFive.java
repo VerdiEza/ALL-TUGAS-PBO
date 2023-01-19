@@ -1,4 +1,4 @@
-package com.percobaan5;
+package percobaan5;
 
 public class ExceptionFive {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sesi13;
+package Tugas13;
 
 import javax.swing.*;
 import java.awt.*;

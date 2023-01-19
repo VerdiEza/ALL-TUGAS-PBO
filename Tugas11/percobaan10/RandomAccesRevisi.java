@@ -1,4 +1,4 @@
-package com.percobaan10;
+package percobaan10;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;

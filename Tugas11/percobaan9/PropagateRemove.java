@@ -1,4 +1,4 @@
-package com.percobaan9;
+package percobaan9;
 
 class PropagateRemove {
     public static void main(String[] args) {

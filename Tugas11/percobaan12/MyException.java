@@ -1,4 +1,4 @@
-package com.percobaan12;
+package percobaan12;
 
 class MyException extends Exception{
     private String Teks;

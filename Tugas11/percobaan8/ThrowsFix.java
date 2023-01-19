@@ -1,4 +1,4 @@
-package com.percobaan8;
+package percobaan8;
 
 import java.io.IOException;
 
